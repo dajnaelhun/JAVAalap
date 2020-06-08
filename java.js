@@ -50,6 +50,27 @@ let tomb = [0, 3, 6, 7, 9]
       };
       console.log(printtomb(tomb))
 
+let envlatozoim = [10,20,30,50,12]
+
+/*envlatozoim.forEach((number) =>
+{
+    console.log(number)
+}); console.log(envlatozoim)
+*/
+
+let uccso = (envlatozoim) =>
+{
+  for (u=0; u<envlatozoim.length; u++)
+  {console.log(envlatozoim[u])};
+
+}
+console.log(uccso(envlatozoim))
+
+
+
+
+
+
 
 
 
